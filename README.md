@@ -1,2 +1,2 @@
 # projetofinal
- Sistema de consulta de dados jAVA
+ Sistema de consulta de dados Java. Utilizando PostgreeSQL.
